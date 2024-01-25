@@ -115,8 +115,17 @@
 
 .section-4{
     background-color: #fff9f2;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
+}
+.white-1{
+    background-color: white;
+    /* border: 2px 2px 2px 2px solid #6d1830; */
+    border-radius: 15px;
+    height: 100vh;
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+    border: 5px solid #6d1830;
 }
 
 
