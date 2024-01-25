@@ -178,6 +178,13 @@
     .section-1 p{
         font-size: 15px;
     }
+    .button{
+        margin-left: 120%;
+        background-color: #6d1830 !important;
+        color: white;
+        height: 8vh;
+        width: 20% !important;
+    }
     
     .image-1{
         height: 40vh;
@@ -244,6 +251,19 @@
         width: 100%;
         
     }
+
+
+
+
+
+    .section-3{
+        background-color: #fff9f2;
+        height: 100vh;
+        width: 100%;
+    }
+
+
+
     
     .flexstuff{
         display: block;
@@ -257,6 +277,7 @@
         width: 70%;
         height: 45vh;
         margin-right: 0%;
+        
     }
     .div-7{
         margin-left: 0%;
@@ -264,6 +285,54 @@
         color: white;
         text-align: center;
 
+    }
+
+
+    .section-4{
+        background-color: #fff9f2;
+        height: 200vh;
+        width: 100%;
+    }
+    .text{
+        text-align: center;
+        margin-bottom: 10%;
+    }
+    .white-1{
+        background-color: white;
+        /* border: 2px 2px 2px 2px solid #6d1830; */
+        border-radius: 15px;
+        height: 90vh;
+        width: 80%;
+        margin: 0% 10% 10% 10%;
+        border: 5px solid #6d1830;
+        /* padding-top: 80%; */
+    }
+    .cloud{
+        /* background-image: url(img/cloud.png);
+        background-size: cover;
+        width: 10%;
+        border:5px solid #6d1830;
+        border-radius: 5px;
+        height: 10vh;  */
+    
+        width: 30%;
+        height: 10vh;
+        border-radius: 300px;
+        border: 20px solid  #6d1830;
+        /* padding-left: 20px; */
+        background-image: url(img/cloud.png);
+        /* background-position: center; */
+        background-size: cover;
+    }
+    .whiteword{
+        display: block;
+        margin-top: -200%;
+        margin-left: 20%;
+    }
+    .frame-furniture{
+        margin-left: 0%;
+        height: 35vh;
+        width: 80%;
     }
     
    
