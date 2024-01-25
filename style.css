@@ -183,7 +183,7 @@
         background-color: #6d1830 !important;
         color: white;
         height: 8vh;
-        width: 20% !important;
+        width: 20%;
     }
     
     .image-1{
@@ -249,6 +249,7 @@
         background-color: #14394c;
         height: 80vh;
         width: 100%;
+        margin-bottom: 0%;
         
     }
 
@@ -258,7 +259,7 @@
 
     .section-3{
         background-color: #fff9f2;
-        height: 100vh;
+        height: 85vh;
         width: 100%;
     }
 
@@ -326,7 +327,7 @@
     }
     .whiteword{
         display: block;
-        margin-top: -200%;
+        margin-top: -190%;
         margin-left: 20%;
     }
     .frame-furniture{
