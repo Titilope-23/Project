@@ -223,11 +223,27 @@
 
 .frame-furniture-5{
     height: 50vh;
-    margin-left: 40%;
+    margin-left: 45%;
     margin-top: 5%;
 }
-
-
+.move-3{
+    margin-top: 5%;
+}
+.white-4{
+    background-color: white;
+    /* border: 2px 2px 2px 2px solid #6d1830; */
+    border-radius: 15px;
+    height: 70vh;
+    width: 80%;
+    margin: 0% 10% 10% 10%;
+    border: 5px solid #6d1830;
+    /* padding-top: 80%; */
+}
+.whiteword-5{
+    display: flex;
+    margin-top: -42%;
+    margin-left: 20%;
+}
 
 
 
@@ -248,11 +264,12 @@
         font-size: 15px;
     }
     .button{
-        margin-left: 120%;
+        margin-left: 0%;
         background-color: #6d1830 !important;
         color: white;
         height: 8vh;
         width: 20%;
+        border: 1px solid #6d1830 !important ;
     }
     
     .image-1{
@@ -269,6 +286,7 @@
         color: white;
         height: 5vh;
         width: 40%;
+        border: 1px solid #6d1830 !important ;
     }
     .image-2{
         height: 10vh;
@@ -453,7 +471,32 @@
     .orun-2{
         margin-bottom: 5%;
     }
-    
+
+
+
+    .frame-furniture-5{
+        height: 35vh;
+        margin-left: -10%;
+        margin-top: 5%;
+    }
+    .move-3{
+        margin-top: 0%;
+    }
+    .white-4{
+        background-color: white;
+        /* border: 2px 2px 2px 2px solid #6d1830; */
+        border-radius: 15px;
+        height: 70vh;
+        width: 80%;
+        margin: 0% 10% 10% 10%;
+        border: 5px solid #6d1830;
+        /* padding-top: 80%; */
+    }
+    .whiteword-5{
+        display: block;
+        margin-top: -150%;
+        margin-left: 20%;
+    }
     
    
     
