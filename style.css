@@ -282,6 +282,31 @@
 }
 
 
+.section-7{
+    background-color: #14394c;
+    height: 60vh;
+    width: 100%;
+    color: white;
+
+}
+.flexstuffff{
+    display: flex;
+}
+.imageee{
+    height: 60vh;
+    width: 120%;
+}
+.wordddd{
+    margin-left:15%;
+    margin-top: 12%;
+}
+.wordddd button{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 35%;
+}
+
 
 
 
@@ -548,5 +573,31 @@
     
    
     
+
+    .section-7{
+        background-color: #14394c;
+        height: 85vh;
+        width: 100%;
+        color: white;
+    
+    }
+    .flexstuffff{
+        display: block;
+    }
+    .imageee{
+        height: 50vh;
+        width: 100%;
+    }
+    .wordddd{
+        margin-left:0%;
+        margin-top: 12%;
+        text-align: center;
+    }
+    .wordddd button{
+        background-color: white;
+        color: black;
+        height: 5vh;
+        width: 40%;
+    }
     
 }
