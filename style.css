@@ -416,6 +416,30 @@
 
 
 
+.section-11{
+    background-color: #6d1830;
+    color: white;
+    height: 40vh;
+    width: 100%;
+}
+.myflex{
+    display: flex;
+    gap: 4%;
+}
+.mayor{
+    margin-left: 5%;
+}
+.mayor-1{
+    height: 5vh;
+    width: 125%;
+    border-radius: 5px;
+}
+.mayor-2{
+    color: #6d1830;
+    width: 120%;
+}
+
+
 
 
 
@@ -811,4 +835,33 @@
         height: 5vh;
     }
     
+
+
+    .section-11{
+        background-color: #6d1830;
+        color: white;
+        height: 40vh;
+        width: 100%;
+    }
+    .myflex{
+        display: block;
+        gap: 0%;
+    }
+    .mayor{
+        margin-top: 0%;
+        margin-left: 5%;
+    }
+    .mayor-1{
+        height: 5vh;
+        width: 55%;
+        border-radius: 5px;
+        margin-top: 0%;
+        margin-left: 5%;
+    }
+    .mayor-2{
+        color: #6d1830;
+        margin-top: 0%;
+        width: 20%;
+        margin-left: 5%;
+    }
 }
