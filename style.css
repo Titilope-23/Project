@@ -380,6 +380,41 @@
 }
 
 
+.section-9{
+    background-color: #fff9f2;
+    color: black;
+    height: 78vh;
+    width: 100%; 
+}
+.border-4{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.border-5{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.border-6{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.letflex{
+    display: flex;
+    gap: 2%;
+    margin-left: 12%;
+    margin-top: 6%;
+}
+.mylove{
+    text-align: center;
+}
+
+
 
 
 
@@ -676,19 +711,19 @@
     .border-1{
         border: black 1px solid;
         height: 14vh;
-        width: 95%;
+        width: 70%;
         border-radius: 10px;
     }
     .border-2{
         border: black 1px solid;
         height: 14vh;
-        width: 95%;
+        width: 70%;
         border-radius: 10px;
     }
     .border-3{
         border: black 1px solid;
         height: 14vh;
-        width: 95%;
+        width: 70%;
         border-radius: 10px;
     }
     .border-1 h4{
@@ -734,6 +769,46 @@
         height: 7vh;
         width: 50%;
         border-radius: 10px;
+    }
+
+
+
+     .section-9{
+        background-color: #fff9f2;
+        color: black;
+        height: 135vh;
+        width: 100%; 
+    }
+    .border-4{
+        border: black 1px solid;
+        height: 35vh;
+        width: 85%;
+        border-radius: 10px;
+    }
+    .border-5{
+        border: black 1px solid;
+        height: 35vh;
+        width: 85%;
+        border-radius: 10px;
+    }
+    .border-6{
+        border: black 1px solid;
+        height: 35vh;
+        width: 85%;
+        border-radius: 10px;
+    }
+    .letflex{
+        display: block;
+        gap: 0%;
+        margin-left: 0%;
+        margin-top: 5%;
+    }
+    .mylove{
+        text-align: center;
+    } 
+    .picture{
+        width: 90%;
+        height: 5vh;
     }
     
 }
