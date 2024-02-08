@@ -441,6 +441,40 @@
 
 
 
+.section-12{
+    background-color: white;
+    height: 40vh;
+    width: 100%;
+}
+.myflex-2{
+    display: flex;
+    margin-left: 8%;
+}
+.downlogo{
+    margin-left: 550%;
+}
+
+
+
+
+.section-13{
+    background-color: white;
+    height: 30vh;
+    width: 100%;
+}
+.myflex-3{
+    display: flex;
+    margin-left: 9%;
+}
+.left{
+    margin-left: 65%;
+}
+.right{
+    margin-left: 2%;
+}
+
+
+
 
 
 
@@ -863,5 +897,38 @@
         margin-top: 0%;
         width: 20%;
         margin-left: 5%;
+    }
+
+
+    .section-12{
+        background-color: white;
+        height: 45vh;
+        width: 100%;
+    }
+    .myflex-2{
+        display: block;
+        margin-left: 8%;
+    }
+    .downlogo{
+        margin-left: 1%;
+    }
+
+
+
+
+    .section-13{
+        background-color: white;
+        height: 30vh;
+        width: 100%;
+    }
+    .myflex-3{
+        display: block;
+        margin-left: 9%;
+    }
+    .left{
+        margin-left: 1%;
+    }
+    .right{
+        margin-left: 2%;
     }
 }
