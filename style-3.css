@@ -10,3 +10,64 @@
     height: 8vh;
     width: 30% !important;
 }
+
+
+
+.section-1{
+    background-color: #14394c;
+    height: 40vh;
+    width: 100%;
+    color: white;
+}
+.myflex-1{
+    display: flex;
+    margin-left: 8%;
+    padding-top: 7%;
+}
+.downlogo{
+    margin-left: 750%;
+    height: 10vh;
+    width: 90%;
+} 
+.div-1{margin-left: 47%;}
+
+
+
+
+
+
+
+
+@media screen and (max-width:700px) {
+
+
+    .button{
+        margin-left: 0%;
+        background-color: #6d1830 !important;
+        color: white;
+        height: 8vh;
+        width: 20%;
+        border: 1px solid #6d1830 !important ;
+    }
+
+
+    .section-1{
+        background-color: #14394c;
+        height: 40vh;
+        width: 100%;
+        color: white;
+    }
+    .myflex-1{
+        display: block;
+        margin-left: 8%;
+        padding-top: 30%;
+        font-size: 20px;
+    }
+    .downlogo{
+        display: none;
+    } 
+    .div-1{
+        display: none;
+    }
+    
+}
