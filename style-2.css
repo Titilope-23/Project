@@ -12,6 +12,14 @@
 }
 
 
+.parent{
+    background-color: #fff9f2;
+    width: 100%;
+
+    
+}
+
+
  .section-1{
     background-color: #14394c;
     height: 40vh;
@@ -28,7 +36,193 @@
     height: 10vh;
     width: 90%;
 } 
-.div-1{margin-left: 47%;}
+.div-1{
+    margin-left: 47%;
+}
+
+/* section-2 */
+.myflex-2{
+    display: flex;
+}
+
+.text-1{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+.image-1{
+    height: 70vh;
+    margin-left: 60%;
+    margin-top: 10%;
+}
+
+/* section-3 */
+.div-3{
+    background-color:#fff9f2 ;
+    height: 80vh;
+    
+}
+
+.myflex-3{
+    display: flex;
+}
+.image-2{
+    margin: 15% 5% 5% 50%;
+    margin-top: -205%;
+}
+.text-2{
+    margin-left: 30%;
+    margin-top: -31%;
+    color: white;
+}
+
+.rectangle{
+    height: 40vh;
+    width: 90%;
+    margin: 10% 5% 15% 5%;
+}
+
+
+/* section-4 */
+.section-4{
+    text-align: center;
+   justify-content: center;
+   width: 100%;
+    
+}
+.section-4 hr{
+    width: 50%;
+    margin-left: 25%;
+    
+}
+
+
+/* section-5 */
+.section-5{
+    background-color: #14394c;
+    height: 60vh;
+    width: 100%;
+    color: white;
+
+}
+.myflex-4{
+    display: flex;
+}
+.image-3{
+    height: 60vh;
+    width: 120%;
+}
+.text-3{
+    margin-left:15%;
+    margin-top: 12%;
+}
+.text-3 button{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 35%;
+}
+
+
+/* section-6 */
+
+.section-6{
+    width: 100%; 
+}
+.border-4{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.border-5{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.border-6{
+    border: black 1px solid;
+    height: 37vh;
+    width: 25%;
+    border-radius: 10px;
+}
+.letflex{
+    display: flex;
+    gap: 2%;
+    margin-left: 12%;
+    margin-top: 6%;
+}
+.mylove{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.section-8{
+    background-color: #6d1830;
+    color: white;
+    height: 40vh;
+    width: 100%;
+}
+.myflex{
+    display: flex;
+    gap: 4%;
+}
+.mayor{
+    margin-left: 5%;
+}
+.mayor-1{
+    height: 5vh;
+    width: 125%;
+    border-radius: 5px;
+}
+.mayor-2{
+    color: #6d1830;
+    width: 120%;
+}
+
+
+
+.section-9{
+    background-color: white;
+    height: 25vh;
+    width: 100%;
+}
+.myflex-6{
+    display: flex;
+    margin-left: 8%;
+}
+.downlogo{
+    margin-left: 550%;
+}
+
+
+
+
+.section-10{
+    background-color: white;
+    height: 15vh;
+    width: 100%;
+}
+.myflex-7{
+    display: flex;
+    margin-left: 9%;
+}
+.left{
+    margin-left: 65%;
+}
+.right{
+    margin-left: 2%;
+}
+
+
 
 
 
@@ -68,5 +262,207 @@
     .div-1{
         display: none;
     }
+
+   /* section-2 */
+    .myflex-2{
+        display: block;
+    }
+    
+    .text-1{
+        margin-left: 7%;
+        margin-top: 10%;
+    }
+    .image-1{
+        height: 45vh;
+        margin-left: 10%;
+        margin-top: 0;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+ /* section-3 */
+    .div-3{
+        background-color: #14394c;
+        height: 80vh;
+        width: 100%;
+        margin-bottom: 0%;
+        
+    }
+    .section-3{
+        background-color: #fff9f2;
+        height: 85vh;
+        width: 100%;
+    }
+    .myflex-3{
+        display: block;
+    }
+    .image-2{
+        margin: 0% 0% 0% 18%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-top: -120%;
+        width: 60%;
+        height: 42vh;
+        margin-right: 0%;
+        
+    }
+    .text-2{
+        margin-left: 0%;
+        margin-top: -10%;
+        color: white;
+        text-align: center;
+    }
+
+
+    /* section-4 */
+.section-4{
+    text-align: center;
+   justify-content: center;
+   width: 0%;
+    
+}
+.section-4 hr{
+    width: 100%;
+    margin-left: 0%;
+    
+}
+
+
+/* section-5 */
+.section-5{
+    background-color: #14394c;
+    height: 85vh;
+    width: 100%;
+    color: white;
+
+}
+.myflex-4{
+    display: block;
+}
+.image-3{
+    height: 50vh;
+    width: 100%;
+}
+.text-3{
+    margin-left:0%;
+    margin-top: 12%;
+    text-align: center;
+}
+.text button{
+    background-color: white;
+    color: black;
+    height: 5vh;
+    width: 40%;
+}
+
+
+/* section-6 */
+
+.section-6{
+    width: 100%; 
+    padding-left: 5%;
+}
+.border-4{
+    border: black 1px solid;
+    height: 35vh;
+    width: 85%;
+    border-radius: 10px;
+}
+.border-5{
+    border: black 1px solid;
+    height: 35vh;
+    width: 85%;
+    border-radius: 10px;
+}
+.border-6{
+    border: black 1px solid;
+    height: 35vh;
+    width: 85%;
+    border-radius: 10px;
+}
+.letflex{
+    display: block;
+    gap: 0%;
+    margin-left: 0%;
+    margin-top: 5%;
+}
+.mylove{
+    text-align: center;
+} 
+.picture{
+    width: 90%;
+    height: 5vh;
+}
+
+
+/* section-8 */
+
+.section-8{
+    background-color: #6d1830;
+    color: white;
+    height: 40vh;
+    width: 100%;
+}
+.myflex{
+    display: block;
+    gap: 0%;
+}
+.mayor{
+    margin-top: 0%;
+    margin-left: 5%;
+}
+.mayor-1{
+    height: 5vh;
+    width: 55%;
+    border-radius: 5px;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+.mayor-2{
+    color: #6d1830;
+    margin-top: 0%;
+    width: 20%;
+    margin-left: 5%;
+}
+
+
+.section-9{
+    background-color: white;
+    height: 20vh;
+    width: 100%;
+}
+.myflex-6{
+    display: block;
+    margin-left: 8%;
+}
+.downlogo{
+    margin-left: 12%;
+}
+
+
+
+
+
+.section-10{
+    background-color: white;
+    height: 25vh;
+    width: 100%;
+}
+.myflex-7{
+    display: block;
+    margin-left: 9%;
+}
+.left{
+    margin-left: 1%;
+}
+.right{
+    margin-left: 2%;
+}
+
+
+
+ 
     
 }
